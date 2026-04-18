@@ -1,4 +1,4 @@
-# 📊 Prisma Analytics – Optimización de Inventarios y Rentabilidad
+# 📊 Prisma Analytics – Retail Inventory & Profitability Analysis
 
 👥 Equipo
 
